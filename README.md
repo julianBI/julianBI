@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working on Busniess Intelligence Reports (Tableau - Power BI - SAS Viya)
+![](Images/Portafolio-TableauPublic-2022.png)
