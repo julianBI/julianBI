@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Busniess Intelligence Reports (Tableau - Power BI - SAS Viya)
 
 ## Tableau Reports ✨
-![](Images/Portafolio-TableauPublic-2022.png)
+![](Images/Portafolio-TableauPublic-2022-A.png)
