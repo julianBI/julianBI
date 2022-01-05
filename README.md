@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Busniess Intelligence Reports (Tableau - Power BI - SAS Viya)
 ## Tableau Reports ✨
 
-[I'm an inline-style link](https://public.tableau.com/app/profile/bijulian#!/)
+[Public TABLEAU--->](https://public.tableau.com/app/profile/bijulian#!/)
 
 ![](Images/Portafolio-TableauPublic-2022-A.png)
 
