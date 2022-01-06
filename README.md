@@ -32,7 +32,8 @@ Here are some ideas to get you started:
 [![Generic badge](https://img.shields.io/badge/Tableau-DataVisualization-blue.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/PowerBI-DataVisualization-yellow.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/SASViya-DataVisualization-Blue.svg)](https://shields.io/)
-[![Generic badge](https://badgen.net/badge/:Python/:Pandas/:blue?icon=github)
+[![Generic badge](https://img.shields.io/badge/Github-InternetHosting-black.svg)](https://shields.io/)
+
 
 #### 
 <!--
