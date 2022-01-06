@@ -32,10 +32,16 @@ Here are some ideas to get you started:
 [![Generic badge](https://img.shields.io/badge/Tableau-DataVisualization-blue.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/PowerBI-DataVisualization-yellow.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/SASViya-DataVisualization-Blue.svg)](https://shields.io/)
-[![Generic badge](https://img.shields.io/badge/Git-VersionControl-black.svg)](https://shields.io/)
 
 
 #### 
+[![git](https://img.shields.io/badge/--F05032?logo=git&logoColor=ffffff)](http://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/--181717?logo=github&logoColor=ffffff)](https://github.com/)
+[![Visual Studio Code](https://img.shields.io/badge/--007ACC?logo=visual%20studio%20code&logoColor=ffffff)](https://code.visualstudio.com/)
+[![Azure](https://badgen.net/badge/icon/azure?icon=azure&label)](https://azure.microsoft.com)
+[![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)](https://www.javascript.com/)
+[![GitLab](https://badgen.net/badge/icon/gitlab?icon=gitlab&label)](https://https://gitlab.com/)
+[![Windows](https://badgen.net/badge/icon/windows?icon=windows&label)](https://microsoft.com/windows/)
 <!--
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
