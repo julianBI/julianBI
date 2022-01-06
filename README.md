@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 -->
 - 🔭 System Engineer with experience in Business Intelligence solutions, Management Information Systems.
 - I’m currently working on Data Visualization Analysis using (Tableau - Power BI - SAS Viya)
+[![Linkedin Badge](https://img.shields.io/badge/-Islem-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)]
+
 ## Tableau Reports ✨
 
 [Public TABLEAU--->](https://public.tableau.com/app/profile/bijulian#!/)
