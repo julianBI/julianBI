@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 System Engineer with experience in Business Intelligence solutions, Management Information Systems. I’m currently working on Data Visualization Analysis using (Tableau - Power BI - SAS Viya)
+- 🔭 System Engineer with experience in Business Intelligence solutions, Management Information Systems. I’m currently working on Data Visualization Analysis using (Tableau - Power BI - SAS Viya) software used for effective data visualization and analytics
 
 ### Social Network 
 [![Linkedin Badge](https://img.shields.io/badge/-JulianLondono-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://linkedin.com/in/julianalbertolondono/)
