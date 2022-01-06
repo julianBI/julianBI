@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on Busniess Intelligence Reports (Tableau - Power BI - SAS Viya)
+- 🔭 System Engineer with experience in Business Intelligence solutions, Management Information Systems.
+- I’m currently working on Data Visualization Analysis using (Tableau - Power BI - SAS Viya)
 ## Tableau Reports ✨
 
 [Public TABLEAU--->](https://public.tableau.com/app/profile/bijulian#!/)
